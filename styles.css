@@ -130,6 +130,13 @@
     text-decoration: none;
 }
 
+a.u{
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+    height: 15px;
+}
+
 .showcase div.w a{
     color: white;
 }
@@ -308,7 +315,7 @@ img.g{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #fff01f;
+    background-color: #e6e1a6;
     padding-top: 50px;
 }
 
@@ -419,4 +426,260 @@ img.g{
 
 #Rixel{
     color: #15BECD;
+}
+
+/* MEMBERSHIP */
+
+.rr{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+.bl{
+    height: 300px;
+    background-color: black;
+}
+
+.gog{
+    width: 900px;
+    height: 400px;
+    margin-top: -200px;
+    margin-left: 190px;
+    border-radius: 20px;
+}
+
+.rr .blu{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 230px;
+    width: 870px;
+    margin-left: 190px;
+    margin-top: 30px;
+    border-radius: 20px;
+    background-color: #15BECD30;
+    padding-left: 30px;
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+
+.rr .blu p.pp{
+    margin-bottom: 40px;
+    line-height: 25px;
+}
+
+.rr .blu p.ppp{
+    margin-top: 0px;
+    line-height: 25px;
+}
+
+.rr .blu h3{
+    line-height: 35px;
+    font-size: 30px;
+}
+
+.lw{
+    display: flex;
+    align-items: center;justify-content: center;
+}
+
+.lw h2{
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.lw p{
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.lw .hp{
+    width: 500px;
+    margin-left: 50px;
+}
+
+.lw .hp ul li{
+    list-style: square;
+    line-height: 30px   ;
+}
+
+.lw .hp ul{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.lw .hp h2{
+    margin-bottom: 20px;
+}
+
+.lw .sw{
+    width: 360px;
+    margin-top: -50px;
+}
+
+.aw{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.aw h2{
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.aw p{
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.aw .wp{
+    width: 500px;
+    margin-right: 50px;
+}
+
+.aw .wp ul li{
+    list-style: square;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.aw .wp ul{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.aw .wp h2{
+    margin-bottom: 20px;
+}
+
+.aw .rw{
+    width: 360px;
+    margin-top: -30px;
+}
+
+.mw{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.mw h2{
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.mw p{
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.mw .mp{
+    width: 500px;
+    margin-left: 50px;
+}
+
+.mw .mp ul li{
+    list-style: square;
+    line-height: 30px   ;
+}
+
+.mw .mp ul{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.mw .mp h2{
+    margin-bottom: 20px;
+}
+
+.mw .kw{
+    width: 360px;
+    border-radius: 15px;
+}
+
+#pr {
+    background-color: black;
+    padding-top: 50px;
+}
+
+#pr .til{
+    color: white;
+    line-height: 30px;
+    margin-bottom: 30px;
+    text-align: center;     
+}
+
+#pr .di{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#pr .di .div{
+    background-color: white;
+    height: 110px;
+    width: 450px;
+    margin: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-top: 40px;
+}
+
+#pr .di .div h2{
+    color: #15BECD;
+}
+
+#pr .di #fg{
+    background-color: #15BECD;
+    color: white;
+}
+#pr .di #fg h2{
+    color: black;
+}
+#rev{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 150px;
+    width: 970px;
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    background-color: rgb(158, 247, 217);
+}
+
+#rev .hl{
+    background-color: white;
+    height: 200px;
+    line-height: 40px;
+    margin-left: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 20px;
+}
+
+hr.rm{
+    width: 50px;
+    border-top: solid 1.5px #15BECD;
+}
+
+#rev .sup{
+    margin-right: 400px;
+}
+
+#rev .sup h2{
+    font-size: 30px;
+    line-height: 50px;
 }
