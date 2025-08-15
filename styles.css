@@ -317,6 +317,7 @@ img.g{
     justify-content: center;
     background-color: #e6e1a6;
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .map .c{
@@ -348,7 +349,8 @@ img.g{
     padding-left: 40px;
 }
 
-.num{padding-top: 5px;
+.num{
+    padding-top: 5px;
     margin-bottom: 10px;
 }
 
