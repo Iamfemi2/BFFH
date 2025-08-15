@@ -683,3 +683,137 @@ hr.rm{
     font-size: 30px;
     line-height: 50px;
 }
+
+/* About */
+
+#asf{
+    display: flex;
+    margin-left: 140px;
+}
+
+#asf .af{
+    width: 300px;
+    border-radius: 10px;
+    margin: 20px;
+    margin-top: -120px;
+}
+
+.black{
+    height: 300px;
+    background-color: black;
+    color: #15BECD;
+    font-size: 18px;
+    padding-left: 150px;
+}
+
+#sto{
+    width: 80%;
+    margin-left: 150px;
+    line-height: 23px;
+    margin-top: 70px;
+}
+
+#sto p{
+    margin-top: 30px;
+}
+
+#sto h3{
+    font-size: 30px;
+    line-height: 40px;
+}
+
+#mis{
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 130px;
+    line-height: 20px;
+    margin-top: 70px;
+}
+
+#mis p{
+    margin-top: 20px;
+    width: 700px;
+    font-size: 14px;
+}
+
+#mis h3{
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+#vis{
+    display: flex;
+    background-color: #c0f3f7;
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 130px;
+    line-height: 20px;
+    margin-top: 70px;
+}
+
+#vis p{
+    margin-top: 20px;
+    width: 700px;
+    font-size: 14px;
+}
+
+#vis h3{
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+#fou{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#fou .fout{
+    width: 550px;
+    line-height: 25px;
+}
+
+#fou .fout h2{
+    margin: 20px;
+    margin-left: 0px;
+    color: #15BECD;
+}
+
+#fou img{
+    width: 400px;
+    margin-left: 20px;
+     border-radius: 10px;
+}
+
+.imgh{
+    background-image: url(./0bcdc5ace81838c31a8d07238e034296dbf88c02.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    padding-left: 200px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.imghh{
+    width: 300px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.imghh p{
+    margin-top: 10px;
+}
