@@ -964,3 +964,29 @@ hr.rm{
     margin-left: 200px;
     text-align: left;
 }
+
+#Blog .col{
+    width: 450px;
+    height: 250px;
+}
+
+#Blog .blo{
+    width: 500px;
+    border-radius: 10px;
+    border: solid 2px rgb(243, 176, 151);
+    padding: 30px;
+}
+
+#Blog .blo h3{
+    margin-left: -1px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.coll{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
